@@ -1,4 +1,8 @@
 ---
+layout: post
+excerpt: "notes on pupil labs output"
+tags: [sample post, pupil labs, eye tracking, test]
+comments: true
 title: "Making PL exports readable for MS Toolbox"
 author: "FK"
 date: "14 4 2020"
